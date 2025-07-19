@@ -54,6 +54,13 @@ I regularly solve problems on LeetCode to improve my problem-solving skills.
   <img src="https://leetcard.jacoblin.cool/kiran_jpjk?theme=dark&font=baloo&show_stats=true" alt="LeetCode Stats" />
 </p>
 
+## 🗓️ LeetCode Submission Heatmap
+
+<p align="center">
+  <img src="https://leet-graph-api.vercel.app/kiran_jpjk" alt="LeetCode Activity Graph" />
+</p>
+
+
 ---
 
 ### 🏆 GitHub Trophies
