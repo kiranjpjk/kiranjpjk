@@ -20,8 +20,8 @@
 
 - Languages: `Java`, `Linux`, `Bash Script`
 - Tools: `IntelliJ`, `VS Code`, `Github`, `Kali Linux`, `Virtual Machines`
-- Web: `HTML`, `CSS`, `JavaScript`, `Node.js`
-- Database: `MySQL`, `SQLite`
+- Web: `HTML`, `CSS`
+- Database: `MySQL`, `SQLite` , `JDBC`
 - Currently Learning: `Spring Boot`, `React`, `MongoDB`
 
 ---
